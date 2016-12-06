@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "16431518353",
+    "firebase_url": "https://mannymsgtest.firebaseio.com",
+    "project_id": "mannymsgtest",
+    "storage_bucket": "mannymsgtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16431518353:android:dda983388c04950a",
+        "android_client_info": {
+          "package_name": "app.manny.fcmpushexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16431518353-d6h3qjvtmkvn64amr1n7rqrd0ipa35vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfEVEKpERAGOGuXo9gKr4HFFTqn7b2Qmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16431518353:android:27c6a0e89a908274",
+        "android_client_info": {
+          "package_name": "app.manny.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16431518353-d6h3qjvtmkvn64amr1n7rqrd0ipa35vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfEVEKpERAGOGuXo9gKr4HFFTqn7b2Qmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
